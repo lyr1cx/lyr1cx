@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lyric.
 - 👀 I’m interested in and very passionate about Information Security.
-- 🌱 I’m currently learning all the things right now.
+- 🌱 I’m currently learning all the things right now. (seriously - I probably should slow down...)
 - 🤝 Connect with me: [![image](https://user-images.githubusercontent.com/6131085/210301458-ef8ad801-3b3c-4d92-9f7b-eecff714880a.png 'Website')](https://www.trevorcase.com)[![image](https://user-images.githubusercontent.com/6131085/210302316-70ff3b2c-f6ae-46da-b008-425a807d52e4.png 'LinkedIn')](https://www.linkedin.com/in/tcbt/)
 <br><br>
 
